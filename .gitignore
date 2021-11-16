@@ -1,0 +1,11 @@
+.idea
+*.DS_Store
+*.pyc
+*ckp
+*pt
+main.py
+/data/old/
+/data/comments/
+/data/interval/
+*.json
+
