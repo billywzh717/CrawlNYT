@@ -22,7 +22,7 @@ hdr = {'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML,
        'Accept-Language': 'en-US,en;q=0.8',
        'Connection': 'keep-alive'}
 
-api_key = "p5fE1Dmkldn74XKJrzRkv0sH5ddxurA1"
+api_key = ""
 monthly = "http://api.nytimes.com/svc/archive/v1/%s/%s.json?api-key=%s"
 years = range(2010, 2021)
 months = range(1, 13)
