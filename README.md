@@ -2,6 +2,8 @@
  
 With those code you can collect Multimodal New York Times by your self.
 
+We borrowed some code from furkanbiten/[GoodNews](https://github.com/furkanbiten/GoodNews). Thanks a lot!
+
 ## Environment
 
 Python 3
