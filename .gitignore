@@ -4,8 +4,7 @@
 *ckp
 *pt
 main.py
-/data/old/
-/data/comments/
-/data/interval/
+/data/
 *.json
+
 

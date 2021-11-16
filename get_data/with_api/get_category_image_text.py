@@ -1,7 +1,7 @@
 import json
 import shutil
 
-original_path = './images/'
+original_path = '../../data/images/'
 
 categories = {'politics', 'business', 'opinion', 'technology', 'science', 'health', 'sports', 'arts', 'theater',
               'books', 'dining', 'travel', 'movies', 'fashion', 'realestate'}
