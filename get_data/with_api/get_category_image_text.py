@@ -1,7 +1,7 @@
 import json
 import shutil
 
-original_path = 'K:/Dataset/NewsArticle/ImageCaptionGen/images/'
+original_path = './images/'
 
 categories = {'politics', 'business', 'opinion', 'technology', 'science', 'health', 'sports', 'arts', 'theater',
               'books', 'dining', 'travel', 'movies', 'fashion', 'realestate'}

@@ -8,7 +8,7 @@ Python 3
 
 ## Steps
 
-1. First, you need to apply a NYT developer account and get a api key and fill it into retrieve_all_urls.py 
+1. First, you need to apply a NYT developer account and get a api key and fill it into retrieve_all_urls.py in folder get_data/with_api/.
 2. Then you can use retrieve_all_url.py to crawl the multimodal news' meta information.
 3. With those meta information, then you can use get_data_api.py to crawl the actual news.
 4. In step 3 you will obtain all the NYT news in target years. And if you want to select specific news categories, you can use 
